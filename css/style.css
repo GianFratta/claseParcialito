@@ -1,0 +1,14 @@
+.imagenes{
+    background-color: rgb(226, 141, 252);
+    display: flex;
+    height: 500px;
+    justify-content: space-around;
+    align-items: stretch;
+}
+.imagenes h2{
+    background-color: aquamarine;
+    
+}
+.contenedor{
+    
+}
